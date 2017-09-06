@@ -1,0 +1,26 @@
+{
+  "name": "jello-postpackager-upload-cdn",
+  "version": "1.1.1",
+  "description": "The static resources management of jr8 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jr8",
+    "cdn",
+    "resource"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maqing01/jello-postpackager-upload-cdn.git"
+  },
+  "author": {
+    "name": "maqing01"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vinyl-fs": "^2.4.4",
+    "vinyl-ftp": "^0.6.0"
+  }
+}
