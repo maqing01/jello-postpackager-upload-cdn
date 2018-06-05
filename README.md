@@ -1,6 +1,6 @@
 # jello-postpackager-upload-cdn
 ***
-* 58金融事业部基于fis所编写的插件
+* 基于fis + jello所编写的插件
 * 源码编译打包后将指定目录静态资源上传cdn
 
 

@@ -1,6 +1,6 @@
 {
   "name": "jello-postpackager-upload-cdn",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "The static resources management of jr8 project",
   "main": "index.js",
   "scripts": {
